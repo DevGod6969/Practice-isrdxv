@@ -1,5 +1,4 @@
 name: Practice
-load: POSTWORD
 author: iSrDxv
 version: 1.0.0-beta
 main: isrdxv\practice\Loader
